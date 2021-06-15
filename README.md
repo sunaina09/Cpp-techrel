@@ -1,2 +1,0 @@
-# Cpp-techrel
-Cpp Programms 
